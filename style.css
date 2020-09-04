@@ -1,0 +1,17 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background: lightBlue;
+}
+.bar{
+    fill:white;
+}
+svg{
+    border-color: cadetblue
+}
+.bar:hover{
+    fill:red;
+}
+
